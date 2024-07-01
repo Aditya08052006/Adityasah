@@ -1,3 +1,3 @@
 # Adityasah
-<br>
-This is my first Git repository Author - Aditya sah
+This is my first Git repository 
+Author - Aditya sah
